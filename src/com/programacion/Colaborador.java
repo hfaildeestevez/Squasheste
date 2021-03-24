@@ -2,7 +2,7 @@ package com.programacion;
 
 public class Colaborador {
     public void amosar(){
-        System.out.println("cambio 1");
+        System.out.println("cambio 2");
     }
 }
 
